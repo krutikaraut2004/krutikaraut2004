@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆</h1>
+<h1 align="left">Hello, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆</h1>
 
 - 📚 I'm a B.Tech Computer Science and Business student at SVKM's NMIMS.
 - 🪐 I'm interested in Web Development, Data Analytics, and Business Intelligence etc.
