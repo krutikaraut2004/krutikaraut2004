@@ -16,3 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/krutika-raut-2oo4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutika-raut-2oo4" height="30" width="40" /></a>
 </p>
+
+
+<img align="center" alt="GIF" src="https://tenor.com/view/pixel-art-cat-cute-adorable-fluffy-cat-gif-7929121331790077720" width="100px" height="100px" />
