@@ -14,6 +14,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krutika-raut-2oo4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutika-raut-2oo4" height="30" width="40" /></a>
-</p> <img align="center" alt="GIF" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="120px" height="90px" />
-
+<a href="https://linkedin.com/in/krutika-raut-2oo4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutika-raut-2oo4" height="30" width="40" /></a> <img align="center" alt="GIF" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="120px" height="90px" />
+</p>
