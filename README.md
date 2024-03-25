@@ -18,4 +18,4 @@
 </p>
 
 
-<img align="center" alt="GIF" src="https://tenor.com/view/pixel-art-cat-cute-adorable-fluffy-cat-gif-7929121331790077720" width="100px" height="100px" />
+<img align="center" alt="GIF" src="https://media.tenor.com/bgnl10pR3xgAAAAi/pixel-art-cat.gif" width="100px" height="100px" />
