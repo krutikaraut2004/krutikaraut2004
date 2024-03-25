@@ -18,4 +18,4 @@
 </p>
 
 
-<img align="center" alt="GIF" src="https://tenor.com/view/pixel-cat-gif-25950025" width="498px" height="277px" />
+<img align="center" alt="GIF" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="498px" height="277px" />
