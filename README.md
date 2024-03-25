@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆</h1>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200px" height="200px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQwcGRhdnc4anlma256MTFqb2EwNG56NGFmMXpyM3g2b2xmcDBxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="200px" height="200px" />
 
 - 📚 I'm a B.Tech Computer Science and Business student at SVKM's NMIMS.
 - 🪐 I'm interested in Web Development, Data Analytics, and Business Intelligence etc.
