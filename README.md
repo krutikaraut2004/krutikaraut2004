@@ -12,7 +12,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krutikaraut2004&show_icons=true&locale=en&layout=compact&bg_color=fee7f1" alt="krutikaraut2004" /></p>
 
-![krutikaraut2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krutikaraut2004&theme=radical&hide_border=false)
+![krutikaraut2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krutikaraut2004&theme=dracula&hide_border=false) ![krutikaraut2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutikaraut2004&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
