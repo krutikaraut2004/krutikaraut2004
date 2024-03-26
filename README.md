@@ -12,6 +12,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krutikaraut2004&show_icons=true&locale=en&layout=compact&bg_color=fee7f1" alt="krutikaraut2004" /></p>
 
+![krutikaraut2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krutikaraut2004&theme=radical&hide_border=false)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krutika-raut-2oo4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutika-raut-2oo4" height="30" width="40" /></a>
