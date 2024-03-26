@@ -12,7 +12,7 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=krutikaraut2004&theme=dracula&hide_border=false" alt="Streak" style="width: 52%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutikaraut2004&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 43%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutikaraut2004&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 40%;">
 </div>
 
 
