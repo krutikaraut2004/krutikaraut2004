@@ -1,7 +1,6 @@
 <h1 align="left">Hello, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆ <img align="center" alt="GIF" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="100px" height="80px" /></h1> 
 <img align="right" alt="GIF" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200px" height="200px" />
 
-<h3 style="text-align: left;">About Me:</h3>
 - 📚 I'm a B.Tech Computer Science and Business student at SVKM's NMIMS.
 - 🪐 I'm interested in Web Development, Data Analytics, and Business Intelligence etc.
 - 📜 I'm currently learning and exploring Data Science.
