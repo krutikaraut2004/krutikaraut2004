@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆ <img align="center" alt="GIF" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="100px" height="80px" /></h1> 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQwcGRhdnc4anlma256MTFqb2EwNG56NGFmMXpyM3g2b2xmcDBxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="200px" height="200px" />
+<img align="right" alt="GIF" src="https://media.tenor.com/Cdsz67OHTE0AAAAi/kitty-cat.gif" width="200px" height="200px" />
 
 - 📚 I'm a B.Tech Computer Science and Business student at SVKM's NMIMS.
 - 🪐 I'm interested in Web Development, Data Analytics, and Business Intelligence etc.
