@@ -4,6 +4,7 @@
 - 📚 I'm a B.Tech Computer Science and Business student at SVKM's NMIMS.
 - 🪐 I'm interested in Web Development, Data Analytics, and Business Intelligence etc.
 - 📜 I'm currently learning and exploring Data Science.
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/krutikaraut2004)
 - 👩‍🍳 I also enjoy cooking and baking in my free time.
 - 🎮 Here's a fun fact: I enjoy playing video games!
 - 💌 How to reach me: rautkrutika2004@gmail.com
