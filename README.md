@@ -1,4 +1,5 @@
-<h1 align="left">Hello, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆<p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikaraut2004&label=Profile%20views&color=ff1493&style=flat" alt="krutikaraut2004" /></h1> 
+<h1 align="left">Hello, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆<p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikaraut2004&label=Profile%20views&color=ffb6c1&style=flat" alt="krutikaraut2004" />
+</p></h1> 
 <img align="right" alt="GIF" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200px" height="200px" />
 
 - 📚 I'm a B.Tech Computer Science and Business student at SVKM's NMIMS.
