@@ -41,4 +41,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krutika-raut-2oo4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krutika-raut-2oo4" height="30" width="40" /></a>
-</p>
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/7c/2d/32/7c2d3262e730ed20707f73830b7852b5.gif" width="100px" height="100px" />
+
+</p> 
