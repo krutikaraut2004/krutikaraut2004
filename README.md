@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆ <img align="right" alt="GIF" src="https://media.tenor.com/g0-_Wew_MO8AAAAi/flower-banner.gif" width="498px" height="62px" />
+<h1 align="left">Hello, I'm Krutika Raut ♡₊˚ 🦢・₊✧⋆⭒˚｡⋆
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikaraut2004&label=Profile%20views&color=ff69b4&style=flat" alt="krutikaraut2004" />
 </p></h1> 
 <img align="right" alt="GIF" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200px" height="200px" />
