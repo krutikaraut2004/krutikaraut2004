@@ -4,6 +4,7 @@
 <img align="right" alt="GIF" src="https://media.tenor.com/4WvV9GY4yTEAAAAi/azur-lane-game.gif" width="200px" height="200px" />
 
 - 📚 I'm a B.Tech Computer Science and Business student at SVKM's NMIMS.
+- 💻 I'm currently working as Data Analytics Intern at [GTL Infrastructure](https://www.linkedin.com/company/gtl-infrastructure)
 - 🪐 I'm interested in Web Development, Data Analytics, and Business Intelligence etc.
 - 📜 I'm currently learning and exploring Data Science along with an analytic tool Power BI.
 - 👩‍💻 All of my projects are available at [My Github](https://github.com/krutikaraut2004)
